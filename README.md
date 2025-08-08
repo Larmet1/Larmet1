@@ -16,7 +16,7 @@
 ---
 
 ### 📌 Мої проєкти:
-- 🎵 [YouTube MP3 Telegram Bot](https://github.com/Larmet1/larmet_secretbot) – бот, який конвертує відео в mp3  
+- 🎵 [YouTube MP3 Telegram Bot](https://github.com/Larmet1/larmet_secretbot) – бот, який конвертує відео в m4a  
 - 🐍 [Snake Game на Pygame](https://github.com/Larmet1/snake-game.git) – класична гра на Python  
 
 ---
