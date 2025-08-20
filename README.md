@@ -26,4 +26,4 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://web.telegram.org/k/#@larmet15)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vladislav.budnichenko@gmail.com)
 
-[![YouTube]([https://img.shields.io/badge/Play%20on%20YouTube-%E2%8C%B6-red)](https://www.youtube.com/watch?v=o0tky2O8NlY](https://www.youtube.com/watch?v=5xiyusUTNcw&list=RD5xiyusUTNcw&start_radio=1&t=5s))
+[![YouTube]([https://img.shields.io/badge/Play%20on%20YouTube-%E2%8C%B6-red)](https://www.youtube.com/watch?v=o0tky2O8NlY](https://youtu.be/5xiyusUTNcw?si=Ocf9Z3dKfcZKC6XM))
