@@ -17,6 +17,7 @@
 
 ### 📌 Мої проєкти:
 - 🎵 [YouTube MP3 Telegram Bot](https://github.com/Larmet1/larmet_secretbot) – бот, який конвертує відео в m4a  
+- 🌦️ [Weather Bot](https://github.com/Larmet1/weatherbot) – телеграм-бот для отримання прогнозу погоди  
 - 🐍 [Snake Game на Pygame](https://github.com/Larmet1/snake-game.git) – класична гра на Python  
 
 ---
